@@ -1,0 +1,21 @@
+Data.: 25/04/2022
+
+Testando a tomada da bancada do SENAC: 121,7V
+(Obs: ...)
+
+Testando a continuidade do cabo de força:
+(Obs: Diodo ...)
+
+Testando o cabo de força ligado na tomada:
+Ligando a Fonte de Alimentação
+
+Testando a Corrente Contínua da Fonte
+(Obs: 3,3V-LA, 5V-VE e 12V-AM)
+
+Testando a Fonte de Alimentação com o Testador de Fonte ATX
+(Obs: PG - Power Good >= 250ms)
+
+Montando o Circuito Básico no Tinkercad (Conhecendo a Protoboard)
+
+
+
